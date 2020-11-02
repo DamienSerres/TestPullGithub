@@ -10,5 +10,5 @@ package paquet1;
  * @author Damien
  */
 public class CGitPullTest {
-    
+    Object ilEstNouveau;
 }
